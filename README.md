@@ -1,6 +1,6 @@
 ### Hi Developers 👋
 
-[![YouTube Badge](https://img.shields.io/badge/YouTube-Hardik-red)](https://www.youtube.com/@HARDIKSHAH)
+[![YouTube Badge](https://img.shields.io/badge/YouTube-Hardik-red)](https://www.youtube.com/)
 [![Linkedin Badge](https://img.shields.io/badge/-Hardik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/aakash--01629954](https://www.linkedin.com/in/hardik-shah-0a8023208)/)](https://www.linkedin.com/in/hardik-shah-0a8023208)
 [![Website Badge](https://img.shields.io/badge/WebSite-Hardik-green)](https://www.hardik)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Hardik-yellow)](https://stackoverflow.com/users/20553248/hardik-shah)
