@@ -5,7 +5,7 @@
 [![Website Badge](https://img.shields.io/badge/WebSite-Hardik-green)](https://www.hardik)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Hardik-yellow)](https://stackoverflow.com/users/20553248/hardik-shah)
 
-I completed B.Tech in CSE & have knowledge of HTML, CSS, JavaScript and now learning Nodejs, Mongo, Express, React, bootstrap.Currently I am pursuing Full Stack Web Development Internship at Edureka Lerning Institute.I have intrested to build & help with these technologies & will continue to do this.
+I completed B.Tech in CSE & have knowledge of HTML, CSS, JavaScript and now learning Nodejs, Mongo, Express, React, bootstrap.Currently I am pursuing my Higher education from Humber College,Canada.I have intrested to build & help with these technologies & will continue to do this.
 
 
 ![Visitor Count](https://profile-counter.glitch.me/hardikshah18/count.svg)
